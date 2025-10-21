@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Galole
 
-💻 Cybersecurity & Cloud Engineer | AWS Certified | Ethical Hacker
+💻 Cybersecurity & Cloud Engineer | AWS Certified | Ethical Hacker | Penetration Tester
 
 ---
 
