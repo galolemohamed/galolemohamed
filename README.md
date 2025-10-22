@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mohamed Galole
+#  Hi, I'm Mohamed Galole
 
-💻 Cybersecurity & Cloud Engineer | AWS Certified | Ethical Hacker | Penetration Tester
+ Cybersecurity & Cloud Engineer | AWS Certified | Ethical Hacker | Penetration Tester
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 I'm a motivated and hands-on Cybersecurity and Cloud Engineer with a strong foundation in ethical hacking, penetration testing, and network defense.  
 I hold the AWS Certified Cloud Practitioner (CCP), Certified Offensive Security Junior (COSJ), and Practical Junior Penetration Tester (PJPT) certifications.
 
@@ -14,14 +14,14 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - Cloud: AWS Lambda, S3, DynamoDB, API Gateway, EC2, KMS, IAM  
 - Cybersecurity: Penetration Testing, Red Teaming, Active Directory exploitation, web application security  
 - Languages & Tools: Python, Bash, Git, VSCode, Kali Linux
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - AWS Certified Cloud Practitioner (CCP)  
 - Certified Offensive Security Junior (COSJ)  
 - Practical Junior Penetration Tester (PJPT)  
@@ -29,9 +29,9 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 - AWS Lambda + DynamoDB Serverless API  
-  - A CRUD API using Lambda and DynamoDB, exposed via API Gateway.  
+  - Lambda and DynamoDB, API Gateway.  
   - Demonstrates serverless patterns, IAM role configuration, and DynamoDB access.
 
 - KMS File Encryption Demo  
@@ -40,7 +40,7 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 
 ---
 
-## 🧰 Current Focus
+##  Current Focus
 - Building a portfolio of secure serverless applications on AWS  
 - Writing tutorials about cloud security and automation  
 - Preparing for AWS Solutions Architect – Associate
@@ -53,5 +53,5 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 
 ---
 
-⭐ Learning by building — one AWS project at a time.
+ Learning by building — one AWS project at a time.
 
