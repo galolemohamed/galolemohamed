@@ -25,7 +25,7 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 - AWS Certified Cloud Practitioner (CCP)  
 - Certified Offensive Security Junior (COSJ)  
 - Practical Junior Penetration Tester (PJPT)  
-- Ethical Hacker — Cisco Networking Academy  
+- Ethical Hacker  Cisco Networking Academy  
 
 ---
 
