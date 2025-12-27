@@ -17,13 +17,12 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 ##  Skills
 - Cloud: AWS Lambda, S3, DynamoDB, API Gateway, EC2, KMS, IAM  
 - Cybersecurity: Penetration Testing, Red Teaming, Active Directory exploitation, web application security  
-- Languages & Tools: Python, Bash, Git, VSCode, Kali Linux
+- Tools: Kali Linux
 
 ---
 
 ##  Certifications
 - AWS Certified Cloud Practitioner (CCP)  
-- Certified Offensive Security Junior (COSJ)  
 - Practical Junior Penetration Tester (PJPT)  
 - Ethical Hacker  Cisco Networking Academy  
 
@@ -41,8 +40,7 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 ---
 
 ##  Current Focus
-- Building a portfolio of secure serverless applications on AWS  
-- Writing tutorials about cloud security and automation  
+- Building of secure serverless applications on AWS   
 - Preparing for AWS Solutions Architect – Associate
 
 ---
@@ -51,7 +49,4 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 - [LinkedIn](https://www.linkedin.com/in/mohamedgalole/)
  
 
----
-
- Learning by building — one AWS project at a time.
 
