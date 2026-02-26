@@ -50,7 +50,7 @@ I am particularly interested in Cloud Security, Infrastructure as Code, and buil
 
 ##  Current Focus
 - Building of secure serverless applications on AWS
-- Terraform, Ansible, Kubernetis and Docker
+- Terraform, Ansible, Kubernetes and Docker
 
 ---
 
