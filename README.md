@@ -1,16 +1,24 @@
 #  Hi, I'm Mohamed Galole
 
- Cybersecurity & Cloud Engineer | AWS Certified | Ethical Hacker | Penetration Tester
+ Cybersecurity & Cloud Engineer | AWS Certified
 
 ---
 
-##  About Me
-I'm a motivated and hands-on Cybersecurity and Cloud Engineer with a strong foundation in ethical hacking, penetration testing, and network defense.  
-I hold the AWS Certified Cloud Practitioner (CCP), Certified Offensive Security Junior (COSJ), and Practical Junior Penetration Tester (PJPT) certifications.
+I'm a Cloud and Cybersecurity Engineer with hands-on experience designing secure, scalable AWS architectures and performing offensive security testing in enterprise-like environments.
 
-I have practical experience simulating real-world attacks on Active Directory, web applications, and cloud environments through platforms such as Hack The Box and AWS Labs.
+I hold the AWS Certified Solutions Architect – Associate, AWS Certified Cloud Practitioner, and Practical Junior Penetration Tester certifications, validating both my cloud architecture knowledge and practical security skills.
 
-I am passionate about bridging the gap between Offensive Security and Cloud Infrastructure Security, and I am eager to contribute to a forward-thinking IT Security or Cloud Engineering team through a junior role, internship, or hands-on training opportunity.
+My experience includes:
+
+Designing decoupled and event-driven AWS architectures (SNS, SQS, Lambda, IAM, VPC)
+
+Implementing secure networking (public/private subnets, security groups, least privilege IAM)
+
+Simulating real-world attacks against Active Directory and web applications
+
+Performing vulnerability analysis and post-exploitation in controlled lab environments
+
+I am particularly interested in Cloud Security, Infrastructure as Code, and building resilient, production-ready systems that align with security best practices.
 
 ---
 
@@ -22,9 +30,10 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 ---
 
 ##  Certifications
-- AWS Certified Cloud Practitioner (CCP)  
+-  AWS Certified Solutions Architect Associate
+-  AWS Certified Cloud Practitioner 
 - Practical Junior Penetration Tester (PJPT)  
-- Ethical Hacker  Cisco Networking Academy  
+
 
 ---
 
@@ -40,8 +49,8 @@ I am passionate about bridging the gap between Offensive Security and Cloud Infr
 ---
 
 ##  Current Focus
-- Building of secure serverless applications on AWS   
-- Preparing for AWS Solutions Architect – Associate
+- Building of secure serverless applications on AWS
+- Terraform, Ansible, Kubernetis and Docker
 
 ---
 
